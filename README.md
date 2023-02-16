@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h2>🌱 Actually Learning 🌱 </h2>
+  <h2>🌱 Currently Learning 🌱 </h2>
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML-icone">  
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="HTML-icone"/>
 </div>
