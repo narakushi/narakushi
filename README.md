@@ -14,10 +14,11 @@
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="HTML-icone"/>
 </div>
 
-<div align="center">
-  <h2>🧝🏾‍♀️ Find Me 🧝🏾‍♀️</h2>
-  <a href="https://instagram.com/nanacode_?igshid=ZDdkNTZiNTM=" target="_blank"><img height="40px" width="40px" src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png"</a>
-  <a href="https://myaccount.google.com/?utm_source=OGB&tab=mk&authuser=0&utm_medium=app" target="_blank"><img height="40px" width="40px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a>
-    <a href="https://myaccount.google.com/?utm_source=OGB&tab=mk&authuser=0&utm_medium=app" target="_blank"><img height="40px" width="40px" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png"></a>
+<div align="center"> 
+   <h2>🧝🏾‍♀️ Find Me 🧝🏾‍♀️</h2>
+  <a href="https://instagram.com/nanacode_?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://myaccount.google.com/?utm_source=OGB&tab=mk&authuser=0&utm_medium=app" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tain%C3%A1-santana-11583a238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
 </div>
+ 
 
