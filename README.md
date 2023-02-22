@@ -2,15 +2,13 @@
 
 <div align="center">
   <h2>🌱 Currently Learning 🌱 </h2>
- <div>
-  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML-icone">  
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML-icone"/>  
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="HTML-icone"/>
- </div>
 </div>
 
 <div align="center">  
   <br>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=narakushi&show_icons=true&count_private=true&hide_border=false&title_color=DC143C&icon_color=DC143C&text_color=FFB6C1&bg_color=0d1116" alt="Tainá Santana github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=narakushi&show_icons=true&count_private=true&hide_border=false&title_color=DC143C&icon_color=DC143C&text_color=FFB6C1&bg_color=0d1116" alt="Tainá Santana github stats"/> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narakushi&layout=compact&hide_border=false&title_color=DC143C&text_color=FFB6C1&bg_color=0d1117" alt="Tainá Santana github stats"/>
 </div>
 
