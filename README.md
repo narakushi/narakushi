@@ -6,8 +6,9 @@
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icone"/>
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS-icone"/>
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="REACT-ícone"/>
-  <img height="40px" width="40px" styles="color:#ffffff" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GITHUB-ícone"/>
-  <img height="40px" width="40px" styles="color:#ffffff" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSZC-TeeAU-DpmCVj450PiDAN4Kik6DOLYg&s" alt="STRAPI-ícone"/>         
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GITHUB-ícone"/>
+  <img height="40px" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSZC-TeeAU-DpmCVj450PiDAN4Kik6DOLYg&s" alt="STRAPI-ícone"/>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="POSTGRES-ícone"/>
 </div>
 
 <div align="center">  
