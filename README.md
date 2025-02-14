@@ -10,7 +10,7 @@
   <h2>📝 Sobre Mim </h2>
   <ul>
     <li>Trabalhei no redesign e reconstrução do site da Superitendência Municipal de Transito de Alagoinhas: <a href="http://smt.alagoinhas.ba.gov.br">Clique aqui.</a></li>
-    <li>Atualmente estou me aprimorando em JavScript e UI/UX para melhorar a qualidade do meu trabalho.</li>
+    <li>Atualmente estou me aprimorando em JavaScript e UI/UX para melhorar a qualidade do meu trabalho.</li>
   </ul>
 <div>
 
