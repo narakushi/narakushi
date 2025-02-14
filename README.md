@@ -36,5 +36,5 @@
   <h2>🧮 Estatísticas</h2>
   <br>
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=narakushi&show_icons=true&count_private=true&hide_border=false&title_color=DC143C&icon_color=DC143C&text_color=FFB6C1&bg_color=0d1116" alt="Tainá Santana github stats"/> 
-  <img width="45%" height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=narakushi&layout=compact&hide_border=false&title_color=DC143C&text_color=FFB6C1&bg_color=0d1117" alt="Tainá Santana github stats"/>
+  <img width="40%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=narakushi&layout=compact&hide_border=false&title_color=DC143C&text_color=FFB6C1&bg_color=0d1117" alt="Tainá Santana github stats"/>
 </div>
