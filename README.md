@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    Sou a Tainá Santana, uma desenvolvedora web, estudante de prototipagem entusiasta em UI/UX design. Produzo projetos com foco em usabilidade e experiência do usuário como Front-end. 
+    Sou a Tainá Santana, uma desenvolvedora web, estudante de prototipagem UI/UX design. Produzo projetos com foco em usabilidade e experiência do usuário como Front-end. 
   </p>
 </div>
 
