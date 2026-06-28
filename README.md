@@ -9,8 +9,8 @@
 <div>
   <h2>📝 Sobre Mim </h2>
   <ul>
-    <li>Trabalhei no redesign e reconstrução do site da Superitendência Municipal de Transito de Alagoinhas: <a href="https://smtalagoinhas.ba.gov.br" target="_blank">Clique aqui.</a></li>
-    <li>Atualmente estou me aprimorando em JavaScript e UI/UX para melhorar a qualidade do meu trabalho.</li>
+    <li>Atualmente estou me aprimorando em ReactJS para melhorar a qualidade do meu trabalho.</li>
+    <li>Estudando inglês com a IA do APP Pratika e curso do Mec Aprenda mais</li>
   </ul>
 <div>
 
